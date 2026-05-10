@@ -1,0 +1,3 @@
+venv/
+playwright-report/
+test-results/
